@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
     printf("XIn chao123421");
-cout<<"HAHA"
+cout<<"HAHAsss"
     return 0;
 }
